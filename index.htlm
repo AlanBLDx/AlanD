@@ -1,0 +1,22 @@
+<!DOCTYPE htlm>
+<htlm>
+<title></title>
+<body style="background-color: white">
+</body>
+<head>
+<img src="Fond.jpg">
+<br />
+   <div style="background: #C0C0C0; width: 400px; height: 350px">
+<h4><p  style="color: black "> <br />Hello,<hr /><p  style="color: black">
+TEXT TEXT
+<hr /></h4> 
+<h4><p style="color:black">TEXT</h4>
+<hr />
+<h4><p style="color:black">TEXT
+ <p style="background-image:Fond.jpg">
+</div style>
+<p style="text-align : center"> hello
+
+
+
+
